@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "CalibreRegular";
+  src: url("./Fonts/Calibre-Regular.otf") format("embedded-opentype");
+}
+@font-face {
+  font-family: "CalibreMedium";
+  src: url("./Fonts/Calibre-Medium.otf") format("embedded-opentype");
+}
+@font-face {
+  font-family: "FuturaBookBT";
+  src: url("./Fonts/FuturaBookBT.ttf") format("truetype");
+}
